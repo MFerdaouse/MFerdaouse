@@ -22,8 +22,7 @@ I am a software engineering graduate with a strong foundation in mathematics, ph
 * **[Lexical & Syntax Analyzer](https://github.com/MFerdaouse/Flex-Bison-Syntax-Analyzer):** A custom compiler component built using C, Flex, and Bison to demonstrate formal language processing.
 
 ### 📫 Let's Connect
-* **Email:** [ferdaoussemerizak@gmail.com](#)## Hi there 👋
-
+* **Email:** [ferdaoussemerizak@gmail.com](#)
 <!--
 **MFerdaouse/MFerdaouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
